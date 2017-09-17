@@ -34,5 +34,9 @@
     "@ionic/app-scripts": "2.1.4",
     "typescript": "2.3.4"
   },
+  "description": "simple-ionic: An Ionic project",
+  "config": {
+    "ionic_webpack": "./webpack.config.js"
+  },
   "description": "An Ionic project"
 }
